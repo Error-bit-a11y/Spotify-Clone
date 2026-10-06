@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="currentColor">
+  <!-- Left bar -->
+  <rect x="4" y="5" width="2.5" height="14" rx="1.25"/>
+  <!-- Backward Triangle -->
+  <path d="M19.248 4.41c1.332-.78 3.002.18 3.002 1.723v11.734c0 1.543-1.67 2.503-3.002 1.723L9.19 13.723c-1.33-.776-1.33-2.67 0-3.446l10.058-5.867z"/>
+</svg>
