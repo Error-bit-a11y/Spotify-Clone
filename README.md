@@ -1,2 +1,2 @@
 # Spotify-Clone
-this clone need some more work to do therefore you are welcome to contribute in it
+I am in my learning Phase so i made a Spotify clone which is just okay i want to learn more by seeing how people contribute 
